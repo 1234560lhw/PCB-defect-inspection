@@ -1,0 +1,25 @@
+﻿# 虚拟环境
+pcb39_gpu/
+venv/
+env/
+
+# 数据集文件夹
+archive/
+
+# Python缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 模型权重、训练日志
+*.pth
+*.onnx
+*.pt
+logs/
+runs/
+output/
+
+# 系统文件
+.DS_Store
+Thumbs.db
